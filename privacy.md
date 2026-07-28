@@ -1,6 +1,6 @@
 # Bask — Privacy Policy
 
-_Last updated: 31 July 2026_
+_Last updated: 28 July 2026_
 
 **Contact: bask.app.support@gmail.com**
 
