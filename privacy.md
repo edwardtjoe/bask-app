@@ -1,8 +1,8 @@
 # Bask — Privacy Policy
 
-_Last updated: 28 July 2026_
+_Last updated: 31 July 2026_
 
-**Contact: ed.test.apple@gmail.com**
+**Contact: bask.app.support@gmail.com**
 
 Bask is designed to be radically private. **We do not collect, transmit, sell, or share your personal data.** Everything the app needs in order to work is processed and stored on your device.
 
@@ -53,4 +53,4 @@ If this policy changes, we will update the date at the top and post the revised 
 
 ## Contact
 
-Questions about privacy: **ed.test.apple@gmail.com**
+Questions about privacy: **bask.app.support@gmail.com**
