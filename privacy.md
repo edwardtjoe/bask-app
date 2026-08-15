@@ -1,6 +1,6 @@
 # Bask — Privacy Policy
 
-_Last updated: 28 July 2026_
+_Last updated: 16 August 2026_
 
 **Contact: bask.app.support@gmail.com**
 
@@ -23,7 +23,7 @@ Bask is designed to be radically private. **We do not collect, transmit, sell, o
 
 **Camera, photos, and skin-tone analysis.** Bask includes a skin-tone comparison feature that measures your tan over time. If you grant camera or photo-library access, the images you choose are analysed **entirely on your device**. Photos are never uploaded and never leave your phone. The measurement records Bask keeps (a colour value, a date, a confidence indicator, and a small thumbnail) are stored locally alongside the rest of your data. The component that performs this analysis contains no networking code whatsoever.
 
-**Notifications.** If you allow notifications, Bask schedules local notifications on your device: a daily best-window reminder, reminders for sessions you have planned yourself, alarms during an active session, and UV safety alerts. These are generated on your device; no notification content is sent to a server.
+**Notifications and alarms.** If you allow notifications, Bask schedules local notifications on your device: a daily best-window reminder, reminders for sessions you have planned yourself, sunscreen reapply prompts, and UV safety alerts. If you allow alarms, Bask also schedules a system alarm for your safe-time limit so it can reach you when your phone is silenced. Both are created and stored on your device; no notification or alarm content is sent to a server, and you can revoke either permission at any time in iOS Settings.
 
 ## What we do NOT do
 
@@ -35,7 +35,7 @@ Bask is designed to be radically private. **We do not collect, transmit, sell, o
 
 ## Your control
 
-- You can grant or revoke Location, Camera, Photos, and Notification permissions at any time in iOS Settings.
+- You can grant or revoke Location, Camera, Photos, Notification, and Alarm permissions at any time in iOS Settings.
 - **Delete everything:** Settings → Data & privacy → "Delete all my data" removes your profile, saved locations, planned sessions, session history, and all skin-tone records and images from your device in a single action. You can also delete individual skin-tone entries.
 - Uninstalling the app also removes all local data.
 
